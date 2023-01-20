@@ -166,3 +166,8 @@ footer{
     margin-top: 320px;
    }
 }
+@media screen and (max-width:500px){
+    #main{
+        margin-top: 500px;
+    }
+}
