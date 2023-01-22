@@ -131,6 +131,9 @@ footer{
     text-transform: uppercase;
     font-weight : 200px;
 }
+.about-footer{
+    margin-top: 200px;
+}
 @media screen and (max-width:1064px) {
     #main {
         margin: 0px;
@@ -153,6 +156,7 @@ footer{
         margin-top: 250px;
     }
 }
+
 @media screen and (max-width:740px) {
    #div1{
     margin-top: 20px;
